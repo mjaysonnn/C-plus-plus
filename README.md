@@ -2,6 +2,6 @@
 
 this is for upgrading my programming skill,
 
-there might be some koreans , so if you need help
+there might be some Korean(language)  , so if you need help
 
 let me know

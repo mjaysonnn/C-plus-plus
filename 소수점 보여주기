@@ -1,0 +1,17 @@
+#include 
+#include 
+#include 
+using namespace std;
+int main()
+{
+int a=170;
+double b=68.600000;
+cout<<"나의 키는"<<endl;
+cout<<a<<endl;
+cout<<"나의 몸무게"<<endl;
+cout.setf(ios::fixed, ios::floatfield);
+cout<<b<<endl;
+return 0;
+}
+
+//double과 float의 차이

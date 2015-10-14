@@ -1,0 +1,24 @@
+# C-plus-plus
+#include <iostream>
+using namespace std;
+#include <iomanip>
+int main()
+{
+	cout.setf(ios::right);
+	cout << setw(10) << "item";          
+	cout << setw(10) << "count";
+	cout << setw(10) << "price" << endl;
+	cout << setw(10) << "pen";
+	cout << setw(10) << "20";
+	cout << setw(10) << "100" << endl;
+	cout << setw(10) << "note";
+	cout << setw(10) << "5";
+	cout << setw(10) << "95" << endl;
+	cout << setw(10) << "eraser";
+	cout << setw(10) << "110";
+	cout << setw(10) << "97" << endl;
+
+	
+	return 0;
+
+}
